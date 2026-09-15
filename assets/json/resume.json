@@ -20,6 +20,7 @@
       "position": "PhD Candidate",
       "url": "https://www.visus.uni-stuttgart.de/",
       "startDate": "2023-11-01",
+      "endDate": "now",
       "summary": "Conducting research on HRI, teaching univerity courses, participate in projects",
       "highlights": ["Human-Robot Interaction, Augmented Reality, User Studies"]
     }
@@ -82,7 +83,7 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "programing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -105,19 +106,32 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Human-Robot Interaction",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Human-Robot Collaboration",
+        "Motion Intent Visualization",
+        "User Interface Development",
+        "User Studies"
+      ]
+    },
+    {
+      "name": "Augmented/Virtual Reality",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Visualizations",
+        "User Studies",
+        "User Interface Development",
+        "Simulations"
       ]
     }
   ],
@@ -135,12 +149,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "IntCDC",
+      "summary": "Collaborative Human-Robot Teams for On-Site Construction.",
+      "highlights": ["Human-Robot Collaboration", "AR Interfaces"],
+      "startDate": "2026-04-01",
+      "endDate": "now",
+      "url": "https://www.intcdc.uni-stuttgart.de/research/research-projects/rp-26-2/"
     }
   ]
 }
