@@ -149,7 +149,15 @@
   ],
   "projects": [
     {
-      "name": "IntCDC",
+      "name": "Excellence Cluster IntCDC - Integrative Computational Design and Construction for Transformative Architecture",
+      "summary": "Part of Project 26.2: Collaborative Human-Robot Teams for On-Site Construction.",
+      "highlights": ["Human-Robot Collaboration", "AR Interfaces"],
+      "startDate": "2026-04-01",
+      "endDate": "now",
+      "url": "https://www.intcdc.uni-stuttgart.de/research/research-projects/rp-26-2/"
+    },
+    {
+      "name": "Interchange Forum for Reflecting on Intelligent Systems - Human-Intelligent Systems Interaction and Teaming",
       "summary": "Collaborative Human-Robot Teams for On-Site Construction.",
       "highlights": ["Human-Robot Collaboration", "AR Interfaces"],
       "startDate": "2026-04-01",
