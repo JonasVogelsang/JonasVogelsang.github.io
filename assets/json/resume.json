@@ -23,11 +23,47 @@
       "endDate": "now",
       "summary": "Conducting research on HRI, teaching univerity courses, participate in projects",
       "highlights": ["Human-Robot Interaction, Augmented Reality, User Studies"]
+    },
+    {
+      "name": "Mercedes Benz AG",
+      "position": "Student Assistant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Assisiting research on Human-Computer Interaction, Embodiement in AR",
+      "highlights": ["Human-Computer Interaction, Augmented Reality, User Studies"]
+    },
+    {
+      "name": "Mönkemöller IT",
+      "position": "Student Assistant",
+      "url": "https://www.visus.uni-stuttgart.de/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Developing tools for internal processes, updating website",
+      "highlights": ["C# Developer, Website Design"]
+    },
+    {
+      "name": "HCI Lab of the University of Stuttgart",
+      "position": "Student Assistant",
+      "url": "https://www.visus.uni-stuttgart.de/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Developing Pacmany, assisting in user studies",
+      "highlights": ["Nodejs, User Studies"]
+    },
+    {
+      "name": "Benz Getränkemarkt",
+      "position": "Minijob",
+      "url": "https://www.visus.uni-stuttgart.de/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "Girls Day @ University of Stuttgart",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
